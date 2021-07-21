@@ -8,6 +8,6 @@ Python3 -m venv venv
 . venv/bin/activate
 source venv/bin/activate
 
-'''bash
+```bash
 python3 app.py
-'''
+```
