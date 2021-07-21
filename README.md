@@ -10,10 +10,6 @@ Python3 -m venv venv
 ```
 
 ```bash
-. venv/bin/activate
-```
-
-```bash
 source venv/bin/activate
 ```
 
